@@ -1,0 +1,7 @@
+/* Custom minor styles (Tailwind covers most styling) */
+html, body { height: 100%; }
+
+/* Improve Plotly responsiveness in container */
+#plot { width: 100%; }
+
+
